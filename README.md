@@ -9,7 +9,7 @@ python3.10.6
 pip 22.2.2
 pyenv 2.3.4
 
-### formatter
+### linter and formatter
 
 flake8 5.0.4
 black 22.8.0

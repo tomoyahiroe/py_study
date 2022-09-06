@@ -6,3 +6,5 @@ lib
 share
 pyvenv.cfg
 .DS_Store
+.gitignore
+.CSVs
