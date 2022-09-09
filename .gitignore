@@ -1,10 +1,6 @@
 .ipynb_checkpoints
-bin
-etc
-include
-lib
-share
-pyvenv.cfg
+venv
 .DS_Store
-.gitignore
 data
+.vscode
+py_study.code-workspace
